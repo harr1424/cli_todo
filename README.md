@@ -1,6 +1,6 @@
 ### A simple project to get re-acquainted with Rust 
 
-After buiulding: 
+After building: 
 ```
 ./todo add apples oranges bananas
 apples
